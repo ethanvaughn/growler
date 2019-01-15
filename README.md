@@ -1,2 +1,2 @@
 # growler
-Foolery with ettercap.
+Security testing with ettercap.
